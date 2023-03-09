@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod gou=r+x hello
+sudo chmod gou+r+x hello
